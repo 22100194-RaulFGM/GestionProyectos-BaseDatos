@@ -1,0 +1,27 @@
+Reporte de Ventas - diciembre 2024
+==================================================
+Venta ID: 2
+Fecha: 08/12/2024 03:24:06 p. m.
+Total: 138.00
+Producto: Yogurt LALA 1L
+Cantidad: 3
+Precio: 22.00
+Subtotal: 66.00
+--------------------------------------------------
+Venta ID: 2
+Fecha: 08/12/2024 03:24:06 p. m.
+Total: 138.00
+Producto: Leche Deslactosada LALA 1L
+Cantidad: 4
+Precio: 18.00
+Subtotal: 72.00
+--------------------------------------------------
+Venta ID: 3
+Fecha: 08/12/2024 03:24:54 p. m.
+Total: 240.00
+Producto: Doritos 45g
+Cantidad: 20
+Precio: 12.00
+Subtotal: 240.00
+--------------------------------------------------
+Fin del Reporte.
